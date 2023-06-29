@@ -1,5 +1,5 @@
 # Railway Product Management
-Website for railways system where you can add you newly purchase product and then you can change its category when it became scrap.
+Website for railways system where you can add your newly purchase product and then you can change its category for the disposal when it becomes scrap.
 ## Login Page
 ![image](https://github.com/0203nilesh/RailwayProductSorter/assets/95562518/d0a3719a-fad4-4133-8efe-1ef512d45cd5)
 
